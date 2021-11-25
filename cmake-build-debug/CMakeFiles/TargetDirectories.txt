@@ -1,0 +1,4 @@
+/home/abner/CLionProjects/pruebaRAID5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/abner/CLionProjects/pruebaRAID5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/abner/CLionProjects/pruebaRAID5/cmake-build-debug/CMakeFiles/pruebaRAID5.dir
+/home/abner/CLionProjects/pruebaRAID5/cmake-build-debug/CMakeFiles/pruebaRAID5_autogen.dir
